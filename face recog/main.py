@@ -105,7 +105,7 @@ class Face_Recognition_System:
         b1_1 = Button(self.root, text="DEVELOPERS", cursor="hand2", font=("times new roman", 12, "bold"), bg="#000066", fg="white")
         b1_1.place(x=680,y=570,width=180,height=40)
 
-        
+        # new comment
        #EXIT
        #8
         img9=Image.open(r"C:\Users\Muhammad Zohaib\Documents\4rth S\TPL\face recog\face recog\college_images\exit.png")
